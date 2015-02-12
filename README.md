@@ -31,7 +31,7 @@ NodeGit
 
 ## Have a problem? Come chat with us! ##
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)]
+[![Gitter](//www.nodegit.org/img/gitterbadge.svg)]
 (https://gitter.im/nodegit/nodegit)
 
 ## Maintained by ##
